@@ -8,4 +8,4 @@ This application is a web based application developed in PHP programming languag
 Admin has permissions to check various reports through online. Admin can add , delete, modify existing reports and compare with other reports and provide a detailed report by considering various factors.
 
 Refer:
-https://www.studentprojectguide.com/php/php-source-code/school-survey-project/
+https://www.studentprojects.live/studentprojectreport/projectreport/school-survey-project-2/
